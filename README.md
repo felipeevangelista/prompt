@@ -1,7 +1,3 @@
-Com base nos arquivos anexados, organizei uma sugestão de `README.md` para GitHub com catálogo, estrutura de pastas, modelo de manutenção, versionamento, checklist e boas práticas. A proposta considera os prompts de imagem 3x4, pesquisa acadêmica, publicação de artigo, short paper, PBL/DSR/RSL, artigo FSC e qualificação de doutorado.      
-
-Arquivo gerado em `.md`: [baixar README_PROMPTS_GITHUB.md](sandbox:/mnt/data/README_PROMPTS_GITHUB.md)
-
 # 🧠 Repositório de Prompts para Pesquisa Acadêmica e Execução de Tarefas
 
 > Biblioteca organizada de prompts para apoiar atividades acadêmicas, produção científica, qualificação de doutorado, revisão de artigos, geração de materiais e execução orientada de tarefas com Inteligência Artificial.
